@@ -1,6 +1,6 @@
 ## Hi there, I'm Gavin McArthur
 
-# Where to find me:
+### Where to find me:
 LinkedIn: @gavinmcarthur
 Website:  gavinmcarthur.com
 
