@@ -1,5 +1,9 @@
 ## Hi there, I'm Gavin McArthur
 
+# Where to find me:
+LinkedIn: @gavinmcarthur
+Website:  gavinmcarthur.com
+
 <!--
 **gavinmcarthur/gavinmcarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
