@@ -2,6 +2,7 @@
 
 ### Where to find me:
 LinkedIn: @gavinmcarthur
+<br>
 Website:  gavinmcarthur.com
 
 <!--
