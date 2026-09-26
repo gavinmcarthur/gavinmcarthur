@@ -1,4 +1,9 @@
-## Hi there, I'm Gavin McArthur
+## Hi, I'm Gavin McArthur 👋
+
+I'm currently a student at BYU with interests in Machine Learning, finance, AI, and entrepreneurship. 
+
+### Things I'm Making:
+LocalFresh.org: Hyperlocal marketplace for buying directly from local farmers.
 
 ### Where to find me:
 LinkedIn: @gavinmcarthur
