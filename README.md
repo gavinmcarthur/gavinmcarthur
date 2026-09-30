@@ -1,26 +1,13 @@
-## Hi, I'm Gavin McArthur 👋
+# Hi, I'm Gavin McArthur 👋
 
-I'm currently a student at BYU with interests in Machine Learning, finance, AI, and entrepreneurship. 
+I'm currently a student at BYU interested in entrepreneurship, AI, finance and machine learning.
 
-### Things I'm Making:
-LocalFresh.org: Hyperlocal marketplace for buying directly from local farmers.
+<br>
+
+### Things I'm Working On
+<a href="https://localfresh.org">Local Fresh</a>: Hyperlocal marketplace connecting local farmers and vendors to consumers.
+
+<br>
 
 ### Where to find me:
-LinkedIn: @gavinmcarthur
-<br>
-Website:  gavinmcarthur.com
-
-<!--
-**gavinmcarthur/gavinmcarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> LinkedIn: @gavinmcarthur <br>Instagram: @gavinmcarthur_ <br>Website:  gavinmcarthur.com</p>
