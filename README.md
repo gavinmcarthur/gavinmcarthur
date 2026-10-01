@@ -1,6 +1,6 @@
 # Hi, I'm Gavin McArthur 👋
 
-I'm currently a student at BYU interested in entrepreneurship, AI, finance and machine learning.
+I'm currently a student at BYU interested in entrepreneurship, AI, marketing, finance and machine learning.
 <br>
 ### Things I'm Working On
 <a href="https://localfresh.org">Local Fresh</a>: Hyperlocal marketplace connecting local farmers and vendors to consumers.
