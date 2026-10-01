@@ -2,7 +2,7 @@
 
 I'm currently a student at BYU interested in entrepreneurship, AI, marketing, finance and machine learning.
 <br>
-### Things I'm Working On
+### Things I'm Working On:
 <a href="https://localfresh.org">Local Fresh</a>: Hyperlocal marketplace connecting local farmers and vendors to consumers.
 <br>
 ### Where to find me:
